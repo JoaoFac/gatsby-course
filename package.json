@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "css-loader": "^7.1.2",
     "dotenv": "^8.2.0",
     "gatsby": "^3.1.1",
     "gatsby-image": "^3.1.0",
@@ -28,6 +29,8 @@
     "gsap": "^3.6.0",
     "lazysizes": "^5.3.0",
     "netlify-cms-app": "^2.14.32",
+    "postcss": "^8.4.41",
+    "postcss-loader": "^8.1.1",
     "prismjs": "^1.23.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
